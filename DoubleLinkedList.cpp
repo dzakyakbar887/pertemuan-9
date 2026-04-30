@@ -245,4 +245,7 @@ int main()
         case '4':
             list.revtraverse();
             break;
-       
+        case '5':
+            list.searchData();
+            break;
+        
