@@ -239,4 +239,7 @@ int main()
         case '2':
             list.hapus();
             break;
-        
+        case '3':
+            list.traverse();
+            break;
+       
